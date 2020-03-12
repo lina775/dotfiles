@@ -28,3 +28,6 @@ hs.hotkey.bind(hyper, "W", function()
     hs.application.launchOrFocus("/Applications/Microsoft Word.app")
 end)
 
+hs.hotkey.bind(hyper, "M", function()
+    hs.application.launchOrFocus("/Applications/NeteaseMusic.app")
+end)
